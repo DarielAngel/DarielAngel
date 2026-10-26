@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#111a2e"/></linearGradient>
+<linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1e293b" stroke-width="1"/></pattern>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.name{font-size:46px;font-weight:700;fill:#e2e8f0;letter-spacing:-.5px}
+.role{font-size:22px;font-weight:600;fill:url(#ac)}
+.sub{font-size:17px;fill:#94a3b8}
+.chip{font-size:14px;font-weight:600;fill:#e2e8f0}
+.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:14px;fill:#34d399}
+</style>
+</defs>
+<rect width="1200" height="290" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="290" rx="18" fill="url(#grid)" opacity=".55"/>
+<rect x="0" y="0" width="1200" height="5" fill="url(#ac)"/>
+<line x1="1010" y1="70" x2="1110" y2="120" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><line x1="1010" y1="70" x2="960" y2="165" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><line x1="1110" y1="120" x2="1080" y2="215" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><line x1="960" y1="165" x2="1080" y2="215" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><line x1="1010" y1="70" x2="1160" y2="40" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><line x1="890" y1="95" x2="1010" y2="70" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><line x1="890" y1="95" x2="960" y2="165" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><line x1="1110" y1="120" x2="1170" y2="200" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><line x1="1080" y1="215" x2="1170" y2="200" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><line x1="1160" y1="40" x2="1110" y2="120" stroke="#818cf8" stroke-opacity=".35" stroke-width="1.5"/><circle cx="1010" cy="70" r="9" fill="#34d399"><animate attributeName="opacity" values="1;.45;1" dur="2.40s" repeatCount="indefinite"/></circle><circle cx="1110" cy="120" r="6" fill="#818cf8"><animate attributeName="opacity" values="1;.45;1" dur="2.75s" repeatCount="indefinite"/></circle><circle cx="960" cy="165" r="6" fill="#818cf8"><animate attributeName="opacity" values="1;.45;1" dur="3.10s" repeatCount="indefinite"/></circle><circle cx="1080" cy="215" r="9" fill="#34d399"><animate attributeName="opacity" values="1;.45;1" dur="3.45s" repeatCount="indefinite"/></circle><circle cx="1160" cy="40" r="6" fill="#818cf8"><animate attributeName="opacity" values="1;.45;1" dur="3.80s" repeatCount="indefinite"/></circle><circle cx="890" cy="95" r="6" fill="#818cf8"><animate attributeName="opacity" values="1;.45;1" dur="4.15s" repeatCount="indefinite"/></circle><circle cx="1170" cy="200" r="6" fill="#818cf8"><animate attributeName="opacity" values="1;.45;1" dur="4.50s" repeatCount="indefinite"/></circle>
+<text x="64" y="64" class="mono">&gt; hello world_</text>
+<text x="64" y="118" class="name">Dariel Angel Arro Moreno</text>
+<text x="64" y="156" class="role">Full-Stack Developer · .NET · Vue · Django</text>
+<text x="64" y="190" class="sub">Computer Science Engineer (UCI) · Cuba · Remote · ICPC background</text>
+<rect x="64" y="214" width="123" height="34" rx="17" fill="#1e293b" stroke="#334155"/><text x="125" y="236" text-anchor="middle" class="chip">C# · .NET 8</text><rect x="196.6" y="214" width="71" height="34" rx="17" fill="#1e293b" stroke="#334155"/><text x="232" y="236" text-anchor="middle" class="chip">Vue 3</text><rect x="277.6" y="214" width="80" height="34" rx="17" fill="#1e293b" stroke="#334155"/><text x="317" y="236" text-anchor="middle" class="chip">Django</text><rect x="367.20000000000005" y="214" width="114" height="34" rx="17" fill="#1e293b" stroke="#334155"/><text x="424" y="236" text-anchor="middle" class="chip">PostgreSQL</text><rect x="491.20000000000005" y="214" width="80" height="34" rx="17" fill="#1e293b" stroke="#334155"/><text x="531" y="236" text-anchor="middle" class="chip">Docker</text><rect x="580.8000000000001" y="214" width="97" height="34" rx="17" fill="#1e293b" stroke="#334155"/><text x="629" y="236" text-anchor="middle" class="chip">RabbitMQ</text>
+</svg>
