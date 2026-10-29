@@ -13,6 +13,7 @@
   <a href="https://darielangel.github.io/cv/Dariel_Angel_Arro_Moreno-CV-ES.pdf"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-4f46e5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV ES"></a>
   <a href="mailto:darielarrom@gmail.com"><img src="https://img.shields.io/badge/Email-darielarrom%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/darielangel"><img src="https://img.shields.io/badge/Telegram-@darielangel-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.linkedin.com/in/dariel-angel-arro-moreno-8715a72a4"><img src="https://img.shields.io/badge/LinkedIn-Dariel_Arro-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <sub><a href="README.md">🇬🇧 Read in English</a> · 🇪🇸 Español</sub>
@@ -125,6 +126,12 @@ Soy **ingeniero en Ciencias Informáticas** (Universidad de las Ciencias Inform�
 **Ingeniería en Ciencias Informáticas — UCI** · *Graduado en 2025*
 - Tesis: panel de planificación institucional (Vue 3 + Django + PostgreSQL) con optimización de consultas.
 - Representante de la universidad en competencias de programación **ICPC**.
+
+## 🏅 Certificaciones
+
+<a href="https://freecodecamp.org/certification/darielangel/foundational-c-sharp-with-microsoft"><img src="https://img.shields.io/badge/freeCodeCamp-Foundational_C%23_with_Microsoft-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Foundational C# with Microsoft — freeCodeCamp"></a>
+
+- [**Foundational C# with Microsoft**](https://freecodecamp.org/certification/darielangel/foundational-c-sharp-with-microsoft) — freeCodeCamp × Microsoft · *oct. 2026*
 
 ## 🔭 Ahora mismo
 
